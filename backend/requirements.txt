@@ -8,4 +8,4 @@ lightgbm==4.3.0
 shap==0.44.1
 xlrd==2.0.1
 pydantic==2.6.0
-python-multipart
+python-multipart==0.0.21
